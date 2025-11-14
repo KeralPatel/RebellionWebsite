@@ -39,7 +39,7 @@ export const Hero = () => {
             size="lg" 
             variant="hero"
             className="text-lg px-8 py-6 h-auto"
-            onClick={() => window.location.href = '/presale'}
+            onClick={() => window.location.href = 'https://presale.rebelliontoken.com/'}
           >
             Join the Presale
             <ArrowRight className="ml-2 h-5 w-5" />
