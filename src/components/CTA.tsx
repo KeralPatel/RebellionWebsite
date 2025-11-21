@@ -38,10 +38,10 @@ export const CTA = () => {
           <p className="mt-8 text-muted-foreground">
             Contact us at{" "}
             <a 
-              href="mailto:Peter@rebelliontoken.com" 
+              href="mailto:support@rebelliontoken.com" 
               className="text-primary hover:underline font-semibold"
             >
-              Peter@rebelliontoken.com
+              support@rebelliontoken.com
             </a>
           </p>
         </div>
