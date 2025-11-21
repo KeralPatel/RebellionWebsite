@@ -42,11 +42,11 @@ export const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Us</h4>
             <a 
-              href="mailto:Peter@rebelliontoken.com"
+              href="mailto:support@rebelliontoken.com"
               className="inline-flex items-center gap-2 text-gray-400 hover:text-primary transition-colors"
             >
               <Mail className="h-5 w-5" />
-              Peter@rebelliontoken.com
+              support@rebelliontoken.com
             </a>
           </div>
         </div>
